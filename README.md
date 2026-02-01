@@ -93,3 +93,31 @@ The lab emphasizes practical skills relevant to roles such as:
 **Md Rahat Islam Anik**  
 Postgraduate Program – Cloud Computing Technologies  
 George Brown College
+
+
+---
+
+## 📸 Screenshots
+
+### Server Manager – AD DS, DNS, DHCP Roles Installed
+![Server Manager showing AD DS, DNS, DHCP roles](screenshots/01_server_manager_ad_ds.png)
+
+---
+
+### Active Directory Users & Computers – OUs and Users
+![Active Directory Users and Computers showing OUs and users](screenshots/02_ad_users_computers_ou_users.png)
+
+---
+
+### Group Policy Management – Enterprise GPO Configuration
+![Group Policy Management Console showing domain GPOs](screenshots/03_group_policy_management.png)
+
+---
+
+### DHCP Manager – Reservation Configuration
+![DHCP Manager showing reservation for infrastructure server](screenshots/04_dhcp_reservation_srv02.png)
+
+---
+
+### Domain-Joined Workstation – Client Authentication
+![Domain-joined workstation verifying domain membership](screenshots/05_domain_joined_workstation.png)
